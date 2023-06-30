@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 ## [Project 1: Book Recommender (Python and ML)](https://github.com/leon-arie/leon-arie.github.io/blob/main/Book%20Recommender%20.ipynb)
 
-[![name](images/bookimage.png)](https://github.com/leon-arie/leon-arie.github.io/blob/main/python/Book%20Recommender.ipynb)
+[![name](images/bookimage.png)](https://github.com/leon-arie/portfolio/blob/main/python/Book%20Recommender.ipynb)
 
 ### Purpose: 
 Trying to find new books to read takes time and energy. For this project, I created a book recommender system to give suggestions on what to read next.
@@ -25,7 +25,7 @@ Is it possible to predict stock prices? In this project, I try to use LTSM to mo
 
 ## [Project 3: EV Dataset Analysis (Python, Data Cleaning, and EDA)](https://github.com/leon-arie/leon-arie.github.io/blob/main/python/EV%20Analysis.ipynb)
 
-[![name](images/data-analysis.png)](https://github.com/leon-arie/leon-arie.github.io/blob/main/EV%20Analysis.ipynb)
+[![name](images/data-analysis.png)](https://github.com/leon-arie/portfolio/blob/main/python/EV%20Analysis.ipynb)
 
 ### Purpose: 
 In this project, I use **Python** to compare key metrics between different electric vehicles to find valuable information that will help lead to future buying decisions.
