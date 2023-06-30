@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-## [Project 1: Book Recommender (Python and ML)](https://github.com/leon-arie/leon-arie.github.io/blob/main/Book%20Recommender%20.ipynb)
+## [Project 1: Book Recommender (Python and ML)](https://github.com/leon-arie/portfolio/blob/main/python/Book%20Recommender.ipynb)
 
 [![name](images/bookimage.png)](https://github.com/leon-arie/portfolio/blob/main/python/Book%20Recommender.ipynb)
 
@@ -23,7 +23,7 @@ Is it possible to predict stock prices? In this project, I try to use LTSM to mo
 4. Checked training and validation loss.
 5. Graphed results. 
 
-## [Project 3: EV Dataset Analysis (Python, Data Cleaning, and EDA)](https://github.com/leon-arie/leon-arie.github.io/blob/main/python/EV%20Analysis.ipynb)
+## [Project 3: EV Dataset Analysis (Python, Data Cleaning, and EDA)](https://github.com/leon-arie/portfolio/blob/main/python/EV%20Analysis.ipynb)
 
 [![name](images/data-analysis.png)](https://github.com/leon-arie/portfolio/blob/main/python/EV%20Analysis.ipynb)
 
