@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 ## [Project 1: CO2 Emissions Prediction (Python, SQL, ML)](https://github.com/leon-arie/portfolio/blob/main/python/Vehicle%20CO2%20Emission%20Prediction%20Model.ipynb)
 
-[![name](images/c02 emissions.png)](https://github.com/leon-arie/portfolio/blob/main/python/Vehicle%20CO2%20Emission%20Prediction%20Model.ipynb)
+[![name](images/c02-emissions.png)](https://github.com/leon-arie/portfolio/blob/main/python/Vehicle%20CO2%20Emission%20Prediction%20Model.ipynb)
 
 ### Purpose: 
 Predicting CO2 emissions based on vehicle data from the Environmental Protection Agency (EPA).
