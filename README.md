@@ -62,12 +62,12 @@ In this project, I use **Python** to compare key metrics between different elect
 [![name](images/ev-tableau.png)](https://public.tableau.com/app/profile/leon.arie/viz/EVDashboard_16550801177210/CarDashboard)
 
 ### Purpose: 
-In project 6, I took the cleaned dataset in project 5 and create a Tableau dashboard to compare different car performances based on models.  
+In project 6, I took the cleaned dataset in project 5 and created a Tableau dashboard to compare different car performances based on models.  
 
 ### Summary:
 1. Load EV dataset into **Tableau**.
 2. Created bar graphs and tables to compare performance metrics for different cars.
-4. Added a filter for each car model to quickly view EV stats.
+3. Added a filter for each car model to quickly view EV stats.
 
 ## [Project 7: Forbes 2022 Billionaires Tableau Dashboard (Tableau)](https://public.tableau.com/app/profile/leon.arie/viz/Billionaires_16552642324310/Dashboard1) 
 
@@ -76,5 +76,16 @@ In project 6, I took the cleaned dataset in project 5 and create a Tableau dashb
 Analyze demographic information on the top Forbes 2022 billionaires around the world and create an interactive Tableau dashboard.
 
 ### Summary:
-1. Cleaned the dataset and load it into **Tableau**.
-3. Created a Tableau dashboard with different demographic data to further analyze the top billionaires.
+1. Cleaned the dataset and loaded it into **Tableau**.
+2. Created a Tableau dashboard with different demographic data to further analyze the top billionaires.
+
+## [Project 8: Marketing/Sales Funnel Analysis (SQL)](https://github.com/leon-arie/portfolio/blob/main/sql/Olist%20Marketing%20Funnel%20Analysis%20-%20SQL%20Project.pdf) 
+
+[![name](images/Onlist.png)](https://github.com/leon-arie/portfolio/blob/main/sql/Olist%20Marketing%20Funnel%20Analysis%20-%20SQL%20Project.pdf)
+### Purpose:
+Olist connects small businesses from all over Brazil to channels without hassle and with only a single contract. Those merchants can sell their products through Olist stores and ship them directly to the customers using Olist’s logistics partners. For this analysis, I will be performing some SQL queries using MySQL to find insights into Onlist customers and how we can improve marketing efforts.
+
+### Summary:
+1. Loaded data into MySQL and wrote queries to pull information about Onlist users. 
+2. Performed analysis of marketing and sales funnel data in order to optimize sales and conversions.
+3. Looked into customer data to improve customer satisfaction for purchased orders. 
